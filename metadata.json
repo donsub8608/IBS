@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Control HMI",
+  "description": "A web-based Human-Machine Interface (HMI) for monitoring and controlling a simulated industrial process. It features real-time data visualization for pressure sensors and flowmeters, camera feeds with AI-powered OCR, and controls for pumps and valves.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
